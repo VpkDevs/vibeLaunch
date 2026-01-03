@@ -1,0 +1,7 @@
+{
+  "name": "VibeLaunch - Deployment for Vibe Coders",
+  "description": "An empathetic, interactive guide to help non-technical 'vibe coders' deploy their AI-generated web applications without fear.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
