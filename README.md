@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# vibeLaunch
 
-# Run and deploy your AI Studio app
+**Category:** other  
+**Status:** Active Development
 
-This contains everything you need to run your app locally.
+True
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Danse3ufN4Y0hXYUqh14OWJ1iYT4PQoc
+## Overview
 
-## Run Locally
+See repository files for implementation details.
 
-**Prerequisites:**  Node.js
+## Quick Links
+- [Issues](https://github.com/VpkDevs/vibeLaunch/issues)
+- [Pull Requests](https://github.com/VpkDevs/vibeLaunch/pulls)
+- [Discussions](https://github.com/VpkDevs/vibeLaunch/discussions)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*Part of [VpkDevs](https://github.com/VpkDevs) workspace. Created with Claude Code.*
